@@ -78,7 +78,7 @@ The **LPC2148**, developed by NXP Semiconductors (Philips), is a 16/32-bit ARM7-
 <img width="840" height="929" alt="image" src="https://github.com/user-attachments/assets/e24eeb76-c340-41dd-9924-8ceed89d3614" />
 
 12. Click **Run** to execute the program.
- <img width="840" height="929" alt="image" src="https://github.com/user-attachments/assets/28d3bac5-d7b2-4faa-9ac8-5822f0f1b82a" />
+ <img width="840" height="920" alt="image" src="https://github.com/user-attachments/assets/28d3bac5-d7b2-4faa-9ac8-5822f0f1b82a" />
    
 ---
 
