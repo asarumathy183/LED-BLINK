@@ -8,7 +8,7 @@ To interface a digital output (LED) to an ARM development board and write a blin
 
 ### ⚙️ **Components Required**
 - STM32CubeIDE  
-- NUCLEO ARM Development Board  
+- NUCLEO ARM Development Board 
 
 ---
 
